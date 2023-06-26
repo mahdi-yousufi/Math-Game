@@ -49,6 +49,7 @@ body {
 .card {
   margin: 5px auto 10px;
   height: 600px;
+  z-index: 10000;
 }
 
 /* Splash Page -------------------- */
